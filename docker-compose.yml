@@ -21,3 +21,6 @@ services:
     depends_on:
       - postgres
 
+  ## 1. Cria um container para execução do PostgreeSQL
+  ## 2. Cria um container para execução do PgAdmin (Controle de Administrador do PostgreeSQL)
+
